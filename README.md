@@ -1,7 +1,3 @@
-Certainly! Here's a sample GitHub README for your Invoice Maker project, along with the setup instructions and features:
-
----
-
 # Invoice Maker
 
 Invoice Maker is a web application that allows you to generate, manage, and export invoices effortlessly. Built with React, it leverages Framer Motion for smooth animations and LottieFiles for engaging dashboard widget icons. The application stores data locally using IndexedDB, ensuring your data is accessible even offline.
@@ -29,7 +25,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/invoice-maker.git
+    git clone https://github.com/Sarthak102/invoice-maker.git
     cd invoice-maker
     ```
 
